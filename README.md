@@ -4,16 +4,19 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a programming student at UTN Regional Villa María. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+I'm a programming student at UTN Regional Villa María with a passion for creating functional and innovative solutions. I love the challenge of solving problems through code and turning ideas into real projects. My focus is on mastering both front-end and back-end technologies to become a versatile developer.
 
 - 🌱 I'm currently learning ...
-  - Web Development
-  - Databases
-  - Software Design
-- 👯 I'm looking forward to collaborate on open source projects.
+  - Web Development 
+  - Database Management 
+  - Software Design Patterns and Best Practices
+- 💻 Working on personal projects to improve my coding skills
+- 👯 I'm looking forward to collaborate on open source projects
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎮 I love playing videogames, 🎵 listening to music, and 💻 working on personal projects.
+- Outside tech, 🎮 I love playing videogames, 🎵 listening to music, and 💻 experimenting with new technologies
 - 📫 Reach out to me at: <a href="mailto:britosagustin15@gmail.com">britosagustin15@gmail.com</a>
+
+<br clear="right"/>
 
 ## My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
