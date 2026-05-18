@@ -1,26 +1,26 @@
-<h1 align="center"><b>Hi, I'm Agustín Britos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Agustín Britos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnd6OGN6aHQycXFmYjNpdXFhbm94YmdoZGYyeGVjeTE2NHB6Zmt6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-I'm a programming student at UTN Regional Villa María with a passion for creating functional and innovative solutions. I love the challenge of solving problems through code and turning ideas into real projects. My focus is on mastering both front-end and back-end technologies to become a versatile developer.
+Soy estudiante de programación en la UTN Regional Villa María, apasionado por crear soluciones funcionales e innovadoras. Me encanta el desafío de resolver problemas a través del código y transformar ideas en proyectos reales. Mi enfoque está en dominar tecnologías tanto de front-end como de back-end para convertirme en un desarrollador versátil.
 
-- 🌱 I'm currently learning ...
-  - Web Development 
-  - Database Management 
-  - Software Design Patterns and Best Practices
-- 💻 Working on personal projects to improve my coding skills
-- 👯 I'm looking forward to collaborate on open source projects
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎮 I love playing videogames, 🎵 listening to music, and 💻 experimenting with new technologies
-- 📫 Reach out to me at: <a href="mailto:britosagustin15@gmail.com">britosagustin15@gmail.com</a>
+- 🌱 Actualmente estoy aprendiendo...
+  - Desarrollo Web 
+  - Gestión de Bases de Datos 
+  - Patrones de Diseño de Software y Buenas Prácticas
+- 💻 Trabajando en proyectos personales para mejorar mi lógica y habilidades de programación
+- 👯 Tengo muchas ganas de colaborar en proyectos de código abierto (open source)
+- ✔ Pregúntame sobre lo que quieras, ¡con gusto te ayudo!<br>
+- Fuera de la tecnología, 🎮 me encanta jugar videojuegos, 🎵 escuchar música y 💻 experimentar con nuevas herramientas y tecnologías
+- 📫 Puedes contactarme en: <a href="mailto:britosagustin15@gmail.com">britosagustin15@gmail.com</a>
 
 <br clear="right"/>
 
-## My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Mis Habilidades <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-<h4> Programming Languages </h4>
+<h4> Lenguajes de Programación </h4>
 <span> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -29,14 +29,14 @@ I'm a programming student at UTN Regional Villa María with a passion for creati
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+<h4> Bases de Datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras Herramientas y Tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
